@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/kwaale/ApiClima.git/static/css/main.0a41e62a.chunk.css",
-    "main.js": "/kwaale/ApiClima.git/static/js/main.b39b69c6.chunk.js",
-    "main.js.map": "/kwaale/ApiClima.git/static/js/main.b39b69c6.chunk.js.map",
-    "runtime-main.js": "/kwaale/ApiClima.git/static/js/runtime-main.6354f180.js",
-    "runtime-main.js.map": "/kwaale/ApiClima.git/static/js/runtime-main.6354f180.js.map",
-    "static/js/2.bb383588.chunk.js": "/kwaale/ApiClima.git/static/js/2.bb383588.chunk.js",
-    "static/js/2.bb383588.chunk.js.map": "/kwaale/ApiClima.git/static/js/2.bb383588.chunk.js.map",
-    "static/js/3.6fbf59bf.chunk.js": "/kwaale/ApiClima.git/static/js/3.6fbf59bf.chunk.js",
-    "static/js/3.6fbf59bf.chunk.js.map": "/kwaale/ApiClima.git/static/js/3.6fbf59bf.chunk.js.map",
-    "index.html": "/kwaale/ApiClima.git/index.html",
-    "static/css/main.0a41e62a.chunk.css.map": "/kwaale/ApiClima.git/static/css/main.0a41e62a.chunk.css.map",
-    "static/js/2.bb383588.chunk.js.LICENSE.txt": "/kwaale/ApiClima.git/static/js/2.bb383588.chunk.js.LICENSE.txt"
+    "main.css": "/kwaale/ApiClima/static/css/main.0a41e62a.chunk.css",
+    "main.js": "/kwaale/ApiClima/static/js/main.b39b69c6.chunk.js",
+    "main.js.map": "/kwaale/ApiClima/static/js/main.b39b69c6.chunk.js.map",
+    "runtime-main.js": "/kwaale/ApiClima/static/js/runtime-main.e5019e18.js",
+    "runtime-main.js.map": "/kwaale/ApiClima/static/js/runtime-main.e5019e18.js.map",
+    "static/js/2.bb383588.chunk.js": "/kwaale/ApiClima/static/js/2.bb383588.chunk.js",
+    "static/js/2.bb383588.chunk.js.map": "/kwaale/ApiClima/static/js/2.bb383588.chunk.js.map",
+    "static/js/3.6fbf59bf.chunk.js": "/kwaale/ApiClima/static/js/3.6fbf59bf.chunk.js",
+    "static/js/3.6fbf59bf.chunk.js.map": "/kwaale/ApiClima/static/js/3.6fbf59bf.chunk.js.map",
+    "index.html": "/kwaale/ApiClima/index.html",
+    "static/css/main.0a41e62a.chunk.css.map": "/kwaale/ApiClima/static/css/main.0a41e62a.chunk.css.map",
+    "static/js/2.bb383588.chunk.js.LICENSE.txt": "/kwaale/ApiClima/static/js/2.bb383588.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6354f180.js",
+    "static/js/runtime-main.e5019e18.js",
     "static/js/2.bb383588.chunk.js",
     "static/css/main.0a41e62a.chunk.css",
     "static/js/main.b39b69c6.chunk.js"

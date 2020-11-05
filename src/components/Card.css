@@ -1,0 +1,39 @@
+.card {
+  margin: 20px;
+  width: 15rem;
+  box-shadow: 0 4px 15px 0 black;
+  transition: 0.3s;
+  border-radius: 10px;
+  background: royalblue;  
+}
+
+.card-title {
+  margin-bottom: 10px;
+}
+
+#closeIcon {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 8px;
+  margin-top: 8px;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  margin-top: 0px;
+  padding-top: 0px;
+}
+
+.btn-close{
+  width: 30px;
+  height: 30px;
+  background: red;
+}
+
+.card-title{
+  font-size: 25px;
+}
+.card-items-internos{
+  margin: 8px;
+}
